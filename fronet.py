@@ -1,1 +1,4 @@
-print ("hola mundo")
+print ("hola mundo") 
+def main():
+    print ("hola mundo")
+    
